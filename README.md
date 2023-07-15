@@ -1,2 +1,1 @@
-# alx-low_level_programming
-This is a low level programming repository
+This repository contains projects dealing with C programming language.
