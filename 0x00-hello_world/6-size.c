@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints out the sizes of the avrious data types in C
+ * main - Entry point
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
