@@ -1,5 +1,8 @@
 #include <stdio.h>
-/* This program prints to the standard output using printf
+/**
+ * main - prints to the standard output using printf
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
