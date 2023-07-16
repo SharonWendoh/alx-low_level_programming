@@ -1,7 +1,9 @@
 #include <stdio.h>
 /*
  *
- * This program prints to the standard output by using put()
+ * main - prints to the standard output by using put()
+ *
+ * Return - Always 0
  */
 int main(void)
 {
