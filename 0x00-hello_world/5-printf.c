@@ -1,4 +1,6 @@
 #include <stdio.h>
+/* This program prints to the standard output using printf
+ */
 
 int main(void)
 {
