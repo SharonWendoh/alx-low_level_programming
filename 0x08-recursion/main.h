@@ -11,5 +11,7 @@ int guess(int n, int x);
 int _sqrt_recursion(int n);
 int checker(int n, int x);
 int is_prime_number(int n);
+int is_palindrome_recursive(char *x, char *y);
+int is_palindrome(char *s);
 
 #endif /* MAIN_H */
