@@ -5,6 +5,8 @@
  *
  * @name: name of person
  * @f: callback function
+ *
+ * Return: no return
  */
 void print_name(char *name, void (*f)(char *))
 {
