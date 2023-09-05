@@ -50,10 +50,10 @@ int main(int argc, char *argv[])
 	{
 		textLength = read(file_from, buf, 1024);
 		if (textLength == -1)
-			error_file(-1, 0, argv);
+			check_file(-1, 0, argv);
 		bytesWritten = write(file_to, buf, textLength);
 		if (bytesWritten == -1)
-			error_file(0, -1, argv);
+		check_file(0, -1, argv);
 	}
 
 	err_close = close(file_from);
